@@ -1,6 +1,10 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
+<!--    <transition appear enter-active-class="animate__animated  animate__backInRight"-->
+<!--                leave-active-class="animate__animated animate__backInUp">-->
+<!--      1111111-->
+<!--    </transition>-->
+    <h1 class="animate__animated animate__backInLeft">11111111</h1>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
